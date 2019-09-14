@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultipleTypesRecyclerViewDemo</string>
+    <string name="activity_main_recycler_view_landscape_header_item_title">(◕◡◉) 風景</string>
+    <string name="activity_main_recycler_view_landscape_footer_item_title">The ineffable beauty of the scenery</string>
+    <string name="activity_main_recycler_view_dessert_header_item_title">(◔౪◔) 甜點</string>
+    <string name="activity_main_recycler_view_dessert_footer_item_title">To have a sweet tooth</string>
+    <string name="activity_main_recycler_view_animal_header_item_title">^o^ 動物</string>
+    <string name="activity_main_recycler_view_animal_footer_item_title">Animals are human\'s best friend</string>
+    <string name="activity_main_recycler_view_dessert_item_introduction">簡介︰</string>
+    <string name="activity_main_recycler_view_dessert_item_money">價錢︰</string>
+    <string name="activity_main_recycler_view_landscape_item_country">國家︰</string>
+</resources>
